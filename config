@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = https://github.com/mixinmax1990/elvezawordpress.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
